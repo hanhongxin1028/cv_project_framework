@@ -6,6 +6,9 @@ DeepLearning图像处理方向项目的大体框架。
 
 
 # 2. 如何使用？
+将仓库克隆到你的本地，可以使用以下命令：
+```bash
+git clone https://github.com/hanhongxin1028/cv_project_framework.git
 
 # 3. 文件介绍
 * `data`下存放数据集
